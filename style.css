@@ -1,0 +1,21 @@
+body {
+  background-color: #f1f1f1;
+  font-size: 16px;
+}
+.container {
+  margin: 0 auto;
+  padding: 0 10px;
+  min-width: 1400px;
+}
+.title {
+  color: blue;
+}
+a {
+  text-decoration: none;
+}
+.fw {
+  font-weight: bold;
+}
+.fs {
+  font-style: italic;
+}
